@@ -15,23 +15,26 @@ Simulator 3d Driving Games: Best Simulation 2016 allows the use of some features
 3.	Offline Use
 Simulator 3d Driving Games: Best Simulation 2016 does not collect any information from its Users. Some information may nonetheless be collected through third party services used by Simulator 3d Driving Games: Best Simulation 2016 such as advertising networks, push notification services or others ("Third Parties") and stored on such Third Parties' servers. 
 
-Non Personal Information:
+## Non Personal Information:
 Simulator 3d Driving Games: Best Simulation 2016 allows Third parties to collect non personal information or non-identifiable information ("Non-Personal Information").
 To put it simply, with respect to such Non Personal Information we have no idea what is the identity of the User from which Third Parties have collected the Non-personal Information.
-Non Personal Information collected by Third Parties may include the following technical information: 
-o	Type of operation system (e.g. Android, iOS, etc.)
-o	Type of browser (e.g. Explorer, Firefox, Chrome, Safari, etc.)
-o	Screen resolution (e.g. 800×600, 1024×768, 960 x 640 etc.)
-o	Language (e.g. English)
-o	Device Vendor (e.g. Galaxy, HTC, iPhone, etc.)
-o	Geo-location – only general location may be collected. No street name or city/town name is collected.
+## Non Personal Information collected by Third Parties may include the following technical information: 
+  -	Type of operation system (e.g. Android, iOS, etc.)
+  -	Type of browser (e.g. Explorer, Firefox, Chrome, Safari, etc.)
+  -	Screen resolution (e.g. 800×600, 1024×768, 960 x 640 etc.)
+  -	Language (e.g. English)
+  -	Device Vendor (e.g. Galaxy, HTC, iPhone, etc.)
+  -	Geo-location – only general location may be collected. No street name or city/town name is collected.
+
 Simulator 3d Driving Games: Best Simulation 2016 allows Third Parties collection of Non Personal Information for strict and limited purposes. Namely, for the limited purpose of analyzing the Service in order to provide You with the Service functionalities and performance.
-Persistent User Identifier and No Other Personal Information:
+
+## Persistent User Identifier and No Other Personal Information:
 Third Parties may also collect from Users a persistent User identifier. Simulator 3d Driving Games: Best Simulation 2016 allows for this information to be collected strictly for internal operations of the Service including serving You with contextual advertisement ("contextual advertisement" are ads that are served to you without connection to any behavioral elements).
 
 Simulator 3d Driving Games: Best Simulation 2016 does not allow Third Parties to collect information that may identify an individual (other than the persistent User identifier which is collected for the limited purpose of internal operations of the Service) nor does it allow the collection of any information of private and/or sensitive nature ("Personal Information").
 
 Simulator 3d Driving Games: Best Simulation 2016 does not allow any personal information to be linked to the persistent identifier, even from other services.
+
 4.	Direct Marketing & Advertising
 We accept contextual advertisements from Third Party advertisers. These advertisers are carefully selected to provide information about products and services that we think may be of interest to our Users. Note that if You click on any of these advertisements, these advertisers may use cookies and other web-tracking technologies to collect non-personal and/or personal information about You. We recommend that You review the terms of use and privacy policy for any advertiser and Third Party with which You are interacting before doing so. Their privacy policy, not ours, will apply to any of those interactions.
  
@@ -57,7 +60,7 @@ The terms of this Privacy Policy will govern the use of the Service and any info
 Changes to this Privacy Policy are effective as of the stated "Last Revised" and your continued use of the Service on or the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
  
 10.	Questions and Feedback
-If you have any questions concerning this Privacy Policy, You are most welcome to send us an email to the following address: [playmestudios@gmail.com]  and we will make an effort to reply within a reasonable time frame.
+If you have any questions concerning this Privacy Policy, You are most welcome to send us an email to the following address: (playmestudios@gmail.com) and we will make an effort to reply within a reasonable time frame.
 
 
 
