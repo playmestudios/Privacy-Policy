@@ -57,7 +57,7 @@ The terms of this Privacy Policy will govern the use of the Service and any info
 Changes to this Privacy Policy are effective as of the stated "Last Revised" and your continued use of the Service on or the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
  
 10.	Questions and Feedback
-If you have any questions concerning this Privacy Policy, You are most welcome to send us an email to the following address: playmestudios@gmail.com  and we will make an effort to reply within a reasonable time frame.
+If you have any questions concerning this Privacy Policy, You are most welcome to send us an email to the following address: [playmestudios@gmail.com]  and we will make an effort to reply within a reasonable time frame.
 
 
 
