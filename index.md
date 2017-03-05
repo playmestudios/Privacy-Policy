@@ -1,5 +1,5 @@
 # Simulator 3d driving games: Best Simulation 2016
-## Privacy Policyes
+## Privacy Policy
 Last Revised: March 5, 2017
 
 Simulator 3d Driving Games: Best Simulation 2016 its subsidiaries and its affiliates ("Company" or "we") respect the privacy of its users ("User" or "You"). We are committed to protect the User's information, be it yours or your child's. We believe that You have a right to know our practices regarding the information we may collect and use when You use our mobile applications such as games, and apps "The Products" and website. (The Products and website together is referred as the "Service").
