@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Simulator 3d driving games: Best Simulation 2016
+## Privacy Policyes
+Last Revised: March 5, 2017
+
 
 You can use the [editor on GitHub](https://github.com/playmestudios/privacypolicy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
