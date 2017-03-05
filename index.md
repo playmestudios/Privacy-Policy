@@ -10,8 +10,6 @@ By accessing and/or using the Service, You agree to the terms and conditions set
 2.	Online Use
 Simulator 3d Driving Games: Best Simulation 2016 allows the use of some features of its Service and some Products offline (without internet connection). Offline use of the Service and Products will preclude the collection of any information pertaining to You and/or Your use of the Service or Products (including, as applicable, information pertaining to your child and their use) by any Third Parties (defined below) and/or Simulator 3d Driving Games: Best Simulation 2016.
 
-
- 
 3.	Offline Use
 Simulator 3d Driving Games: Best Simulation 2016 does not collect any information from its Users. Some information may nonetheless be collected through third party services used by Simulator 3d Driving Games: Best Simulation 2016 such as advertising networks, push notification services or others ("Third Parties") and stored on such Third Parties' servers. 
 
@@ -37,7 +35,7 @@ Simulator 3d Driving Games: Best Simulation 2016 does not allow any personal inf
 
 4.	Direct Marketing & Advertising
 We accept contextual advertisements from Third Party advertisers. These advertisers are carefully selected to provide information about products and services that we think may be of interest to our Users. Note that if You click on any of these advertisements, these advertisers may use cookies and other web-tracking technologies to collect non-personal and/or personal information about You. We recommend that You review the terms of use and privacy policy for any advertiser and Third Party with which You are interacting before doing so. Their privacy policy, not ours, will apply to any of those interactions.
- 
+
 5.	Cookies & Local Storage
 When You access or use the Service, We may use industry-wide technologies such as "cookies" and Flash (or similar technologies), which store certain information on your device ("Local Storage") and which will allow us to enable automatic activation of certain features, and make your Service experience much more convenient and effortless. The cookies used by the Service are created per session, do not include or gather any information about You, other than your session key and are removed as the session ends. It is easy to prohibit the Local Storage. Most browsers and platforms will allow You to erase cookies from your device, block acceptance of cookies, or receive a warning before a cookie is stored. In order to erase or disable the Local Storage option in Flash You should use the settings option of Flash according to the specific instructions provided by the technology provider. However, if You block or erase cookies, or change the settings of Flash, your online experience may be limited.
 
@@ -55,9 +53,7 @@ We take a great care in maintaining the security of the Service and your informa
 We provide some features or item to be bought or unlocked as in game or app purchases through the mechanism provided by the app store (Google, Apple etc.). We take it for granted that any IAP made by You or your child is with your full knowledge, understanding and consent. As We do not force or fool the user to make any IAP so the company would not be responsible for any refund or claim whatsoever regarding IAP.
  
 9.	Changes to the Privacy Policy
-The terms of this Privacy Policy will govern the use of the Service and any information collected therein. Company reserves the right to change this policy at any time, so please re-visit this page frequently. In case of any material change, we will make reasonable efforts to post a clear notice on the Service.
-
-Changes to this Privacy Policy are effective as of the stated "Last Revised" and your continued use of the Service on or the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
+The terms of this Privacy Policy will govern the use of the Service and any information collected therein. Company reserves the right to change this policy at any time, so please re-visit this page frequently. In case of any material change, we will make reasonable efforts to post a clear notice on the Service. Changes to this Privacy Policy are effective as of the stated "Last Revised" and your continued use of the Service on or the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
  
 10.	Questions and Feedback
 If you have any questions concerning this Privacy Policy, You are most welcome to send us an email to the following address: [playmestudios@gmail.com] and we will make an effort to reply within a reasonable time frame.
