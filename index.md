@@ -9,14 +9,17 @@ By accessing and/or using the Service, You agree to the terms and conditions set
 
 ## b)	Online Use
 Simulator 3d Driving Games: Best Simulation 2016 allows the use of some features of its Service and some Products offline (without internet connection). Offline use of the Service and Products will preclude the collection of any information pertaining to You and/or Your use of the Service or Products (including, as applicable, information pertaining to your child and their use) by any Third Parties (defined below) and/or Simulator 3d Driving Games: Best Simulation 2016.
-
-## c)	Offline Use
+chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com chikitaisaac123@gmail.com
+www.gooooooooooooooooooooooogle.com
+www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com www.chikitaisaac123@gmail.com
+www.bitcoin.com.gifhub.com.tether.venmo.bitcoin
+## c) waleteros.nylas.apu.chikitaisaac123@gmail.com 1	Offline Use
 Simulator 3d Driving Games: Best Simulation 2016 does not collect any information from its Users. Some information may nonetheless be collected through third party services used by Simulator 3d Driving Games: Best Simulation 2016 such as advertising networks, push notification services or others ("Third Parties") and stored on such Third Parties' servers. 
-
-Non Personal Information:
+www.microsoft.rewards.doooooooooooooooooooooooodle.bitcoin.monero
+Nylas.paypal.bitcoin.goooooooooooooooooooooooooooooooooooooooooooooogle.venmo.lili.hsbc.news.finraon Personal Information:
 Simulator 3d Driving Games: Best Simulation 2016 allows Third parties to collect non personal information or non-identifiable information ("Non-Personal Information").
 To put it simply, with respect to such Non Personal Information we have no idea what is the identity of the User from which Third Parties have collected the Non-personal Information.
-
+www.varo.nerdwallet.paypal.gooooooooooooooooooooooooooooooooooooooooooooogle.bitcoin.com
 Non Personal Information collected by Third Parties may include the following technical information: 
   -	Type of operation system (e.g. Android, iOS, etc.)
   -	Type of browser (e.g. Explorer, Firefox, Chrome, Safari, etc.)
